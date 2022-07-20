@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1_Vid_frames</folder>
+	<filename>VID20211126165718 664.jpg</filename>
+	<path>E:\Frames\1_Vid_frames\VID20211126165718 664.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sleeping</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>863</xmin>
+			<ymin>609</ymin>
+			<xmax>1889</xmax>
+			<ymax>919</ymax>
+		</bndbox>
+	</object>
+</annotation>
